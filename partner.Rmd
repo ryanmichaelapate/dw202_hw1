@@ -1,0 +1,23 @@
+---
+author: "MyTien Kien"
+title: "Partner Rmd for Lab 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partner Info
+
+Partner: **Ryan Pate**
+
+Github User: **ryanmichaelapate**
+
+Last Commit: She uploaded her hw1 files, both RmD and HTML.
+
+Commit ID: ee16437f2cef19af2bc9bc0f295e01939cf0be8e
+
+Knitting HW1 File: I had no such error knitting Ryan's Rmd file.
+
+Tip for Github: Make sure to keep things organized, it'll help a lot in the future when using Github.
